@@ -1,4 +1,4 @@
-class PaypalAPI {
+export class PaypalAPI {
   processPayment (user, amountInDollars) {
     console.log(`${user} has paid $${amountInDollars} with Paypal`)
   }
