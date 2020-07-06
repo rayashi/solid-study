@@ -1,3 +1,7 @@
+# Simple examples demostrating each SOLID principle
+
+All classes that start wit `Bad` are violating the principle
+
 ## HOW TO RUN
 
 - `npm install`
