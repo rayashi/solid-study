@@ -1,4 +1,4 @@
-# Simple examples demostrating each SOLID principle
+# Simple examples demonstrating each SOLID principle
 
 All classes that start wit `Bad` are violating the principle
 
