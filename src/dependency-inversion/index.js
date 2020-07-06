@@ -3,6 +3,7 @@ import Store from './Store.js'
 import StripeProcessor from './Stripe.js'
 import PaypalProcessor from './Paypal.js'
 
+console.log('\nRunning Dependency Inversion Example ---------------')
 const badStore = new BadStore('Bad Beto')
 const stripeStore = new Store(new StripeProcessor('Beto'))
 const paypalStore = new Store(new PaypalProcessor('Mike'))
